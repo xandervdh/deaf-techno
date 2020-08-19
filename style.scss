@@ -6,15 +6,54 @@
   }
 
 }
+
 //template
 body {
   background-color: black;
 }
 
 .wrap {
-  background-color: white;
+  background: rgb(255, 77, 196);
+  background: linear-gradient(90deg, rgba(255, 77, 196, 1) 15%, rgba(193, 195, 57, 1) 41%, rgba(89, 239, 255, 1) 77%, rgba(133, 151, 220, 1) 100%);
   width: 80%;
   margin: 2% auto;
+  color: white;
+}
+
+//header
+header {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: white;
+
+}
+
+header .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+nav {
+  width: 63%;
+  float: center;
+  display: inline-block;
+}
+
+.nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-link:hover::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  bottom: 0;
+  border: 1px solid black;
 }
 
 .contact {
@@ -29,7 +68,7 @@ body {
 //border line
 hr {
   height: 1px;
-  background-color: black;
+  background-color: white;
   border: none;
 }
 
@@ -52,12 +91,11 @@ hr {
 
 //links
 a {
-  color: black;
+  color: white;
 
 }
 
 a:hover {
   text-decoration: none;
-  color: grey;
+  color: black;
 }
-
