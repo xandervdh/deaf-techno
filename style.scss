@@ -1,3 +1,11 @@
+@media only screen and (min-width: 2400px) {
+  .collapse {
+    margin-left: 420px;
+    margin-top: -60px;
+    padding: 5px;
+  }
+
+}
 //template
 body {
   background-color: black;
@@ -7,6 +15,15 @@ body {
   background-color: white;
   width: 80%;
   margin: 2% auto;
+}
+
+.contact {
+  max-width: 90%;
+  margin: auto;
+}
+
+.container2 {
+  margin-left: auto;
 }
 
 //border line
