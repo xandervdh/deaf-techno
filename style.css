@@ -10,9 +10,42 @@ body {
 }
 
 .wrap {
-  background-color: white;
+  background: #ff4dc4;
+  background: linear-gradient(90deg, #ff4dc4 15%, #c1c339 41%, #59efff 77%, #8597dc 100%);
   width: 80%;
   margin: 2% auto;
+  color: white;
+}
+
+header {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+header .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav {
+  float: center;
+  display: inline-block;
+}
+
+.nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-link:hover::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  bottom: 0;
+  border: 1px solid white;
 }
 
 .contact {
@@ -26,7 +59,7 @@ body {
 
 hr {
   height: 1px;
-  background-color: black;
+  background-color: white;
   border: none;
 }
 
@@ -44,12 +77,12 @@ hr {
 }
 
 a {
-  color: black;
+  color: white;
 }
 
 a:hover {
   text-decoration: none;
-  color: grey;
+  color: black;
 }
 
 /*# sourceMappingURL=style.css.map */

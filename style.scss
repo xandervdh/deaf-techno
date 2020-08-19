@@ -26,7 +26,6 @@ header {
   margin: 0 auto;
   margin-bottom: 10px;
   border-radius: 10px;
-  background-color: white;
 
 }
 
@@ -37,9 +36,9 @@ header .container {
 
 
 nav {
-  width: 63%;
   float: center;
   display: inline-block;
+
 }
 
 .nav-link {
@@ -53,7 +52,7 @@ nav {
   left: 25%;
   right: 25%;
   bottom: 0;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 .contact {
