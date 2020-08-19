@@ -1,7 +1,16 @@
 //template
 body {
-  width: 90%;
+  width: 80%;
   margin: 2% auto;
+  background-color: dimgray;
+  color: white;
+}
+
+//border line
+hr {
+  height: 1px;
+  background-color: white;
+  border: none;
 }
 
 //Headers
@@ -14,9 +23,20 @@ body {
   }
 }
 
-//contact form
+//social icons on contact from
 .social {
   font-size: 40px;
   text-align: center;
   word-spacing: 20px;
+}
+
+//links
+a {
+  color: white;
+
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
 }

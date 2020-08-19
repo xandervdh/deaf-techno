@@ -1,6 +1,14 @@
 body {
-  width: 90%;
+  width: 80%;
   margin: 2% auto;
+  background-color: dimgray;
+  color: white;
+}
+
+hr {
+  height: 1px;
+  background-color: white;
+  border: none;
 }
 
 .heading {
@@ -14,6 +22,15 @@ body {
   font-size: 40px;
   text-align: center;
   word-spacing: 20px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
 }
 
 /*# sourceMappingURL=style.css.map */
