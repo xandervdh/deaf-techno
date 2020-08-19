@@ -16,5 +16,31 @@ h1 {
 }
 
 .button {
-  margin: 1%;
+  margin: 1% 0;
+  overflow: hidden;
+  position: relative;
+  width: 90% !important;
+}
+
+.button a img {
+  transition: transform .3s ease;
+}
+
+.button:hover img {
+  transform: scale(2);
+}
+
+.text {
+  position: absolute;
+  bottom: 10%;
+  min-width: 50%;
+  color: white;
+  font-weight: bold;
+  background: rgb(214,116,0);
+  background: linear-gradient(90deg, rgba(214,116,0,0.8) 15%, rgba(199,53,53,0.8) 41%, rgba(50,89,237,0.8) 100%);
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+  font-size: 2rem;
+  padding: 5px;
+  text-align: center;
 }
