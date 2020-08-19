@@ -1,3 +1,10 @@
+@media only screen and (min-width: 2400px) {
+  .collapse {
+    margin-left: 420px;
+    margin-top: -60px;
+    padding: 5px;
+  }
+}
 body {
   background-color: black;
 }
@@ -6,6 +13,43 @@ body {
   background-color: white;
   width: 80%;
   margin: 2% auto;
+}
+
+.contact {
+  max-width: 90%;
+  margin: auto;
+}
+
+.container2 {
+  margin-left: auto;
+}
+
+hr {
+  height: 1px;
+  background-color: black;
+  border: none;
+}
+
+.heading {
+  text-align: center;
+}
+.heading h1 {
+  font-family: "Julius Sans One", sans-serif;
+}
+
+.social {
+  font-size: 40px;
+  text-align: center;
+  word-spacing: 20px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: grey;
 }
 
 /*# sourceMappingURL=style.css.map */

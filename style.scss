@@ -1,3 +1,12 @@
+@media only screen and (min-width: 2400px) {
+  .collapse {
+    margin-left: 420px;
+    margin-top: -60px;
+    padding: 5px;
+  }
+
+}
+//template
 body {
   background-color: black;
 }
@@ -7,3 +16,48 @@ body {
   width: 80%;
   margin: 2% auto;
 }
+
+.contact {
+  max-width: 90%;
+  margin: auto;
+}
+
+.container2 {
+  margin-left: auto;
+}
+
+//border line
+hr {
+  height: 1px;
+  background-color: black;
+  border: none;
+}
+
+//Headers
+.heading {
+  text-align: center;
+
+  h1 {
+    font-family: 'Julius Sans One', sans-serif;
+
+  }
+}
+
+//social icons on contact from
+.social {
+  font-size: 40px;
+  text-align: center;
+  word-spacing: 20px;
+}
+
+//links
+a {
+  color: black;
+
+}
+
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+
