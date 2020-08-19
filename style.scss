@@ -1,9 +1,100 @@
+@media only screen and (min-width: 2400px) {
+  .collapse {
+    margin-left: 420px;
+    margin-top: -60px;
+    padding: 5px;
+  }
+
+}
+
+//template
 body {
   background-color: black;
 }
 
 .wrap {
-  background-color: white;
+  background: rgb(255, 77, 196);
+  background: linear-gradient(90deg, rgba(255, 77, 196, 1) 15%, rgba(193, 195, 57, 1) 41%, rgba(89, 239, 255, 1) 77%, rgba(133, 151, 220, 1) 100%);
   width: 80%;
   margin: 2% auto;
+  color: white;
+}
+
+//header
+header {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+
+}
+
+header .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+nav {
+  float: center;
+  display: inline-block;
+
+}
+
+.nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-link:hover::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  bottom: 0;
+  border: 1px solid white;
+}
+
+.contact {
+  max-width: 90%;
+  margin: auto;
+}
+
+.container2 {
+  margin-left: auto;
+}
+
+//border line
+hr {
+  height: 1px;
+  background-color: white;
+  border: none;
+}
+
+//Headers
+.heading {
+  text-align: center;
+
+  h1 {
+    font-family: 'Julius Sans One', sans-serif;
+
+  }
+}
+
+//social icons on contact from
+.social {
+  font-size: 40px;
+  text-align: center;
+  word-spacing: 20px;
+}
+
+//links
+a {
+  color: white;
+
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
 }

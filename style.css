@@ -1,11 +1,88 @@
+@media only screen and (min-width: 2400px) {
+  .collapse {
+    margin-left: 420px;
+    margin-top: -60px;
+    padding: 5px;
+  }
+}
 body {
   background-color: black;
 }
 
 .wrap {
-  background-color: white;
+  background: #ff4dc4;
+  background: linear-gradient(90deg, #ff4dc4 15%, #c1c339 41%, #59efff 77%, #8597dc 100%);
   width: 80%;
   margin: 2% auto;
+  color: white;
+}
+
+header {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+header .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav {
+  float: center;
+  display: inline-block;
+}
+
+.nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-link:hover::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  bottom: 0;
+  border: 1px solid white;
+}
+
+.contact {
+  max-width: 90%;
+  margin: auto;
+}
+
+.container2 {
+  margin-left: auto;
+}
+
+hr {
+  height: 1px;
+  background-color: white;
+  border: none;
+}
+
+.heading {
+  text-align: center;
+}
+.heading h1 {
+  font-family: "Julius Sans One", sans-serif;
+}
+
+.social {
+  font-size: 40px;
+  text-align: center;
+  word-spacing: 20px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
 }
 
 /*# sourceMappingURL=style.css.map */

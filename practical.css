@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+
+.wrap {
+  background-color: white;
+  width: 80%;
+  margin: 2% auto;
+  padding: 0 1%;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 5rem;
+}
+
+.button {
+  margin: 1% 0;
+  overflow: hidden;
+  position: relative;
+  width: 90% !important;
+}
+
+.button a img {
+  transition: transform 0.3s ease;
+}
+
+.button:hover img {
+  transform: scale(2);
+}
+
+.text {
+  position: absolute;
+  bottom: 10%;
+  min-width: 50%;
+  color: white;
+  font-weight: bold;
+  background: #d67400;
+  background: linear-gradient(90deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+  font-size: 2rem;
+  padding: 5px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=practical.css.map */
