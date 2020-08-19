@@ -1,9 +1,22 @@
+//template
 body {
-  background-color: black;
+  width: 90%;
+  margin: 2% auto;
 }
 
-.wrap {
-  background-color: white;
-  width: 80%;
-  margin: 2% auto;
+//Headers
+.heading {
+  text-align: center;
+
+  h1 {
+    font-family: 'Julius Sans One', sans-serif;
+
+  }
+}
+
+//contact form
+.social {
+  font-size: 40px;
+  text-align: center;
+  word-spacing: 20px;
 }
