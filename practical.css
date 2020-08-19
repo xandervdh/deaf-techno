@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.wrap {
+  background-color: white;
+  width: 80%;
+  margin: 2% auto;
+  padding: 0 1%;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 5rem;
+}
+
+.button {
+  margin: 1%;
+}
+
+/*# sourceMappingURL=practical.css.map */
