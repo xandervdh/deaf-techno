@@ -1,15 +1,18 @@
 //template
 body {
+  background-color: black;
+}
+
+.wrap {
+  background-color: white;
   width: 80%;
   margin: 2% auto;
-  background-color: dimgray;
-  color: white;
 }
 
 //border line
 hr {
   height: 1px;
-  background-color: white;
+  background-color: black;
   border: none;
 }
 
@@ -32,12 +35,12 @@ hr {
 
 //links
 a {
-  color: white;
+  color: black;
 
 }
 
 a:hover {
   text-decoration: none;
-  color: black;
+  color: grey;
 }
 
