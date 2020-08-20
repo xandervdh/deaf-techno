@@ -3,7 +3,7 @@ body {
 }
 
 .wrap {
-  background-color: white;
+  background-color: palegoldenrod;
   width: 80%;
   margin: 2% auto;
 }
@@ -57,6 +57,16 @@ body {
 .announcements {
   margin-bottom:50px;
   background-color: azure;
+}
+
+.Gallery{
+
+  background-color: palegoldenrod;
+  margin-bottom: 30px;
+  padding-top: 10px;
+  height: 80%;
+
+  padding-left: 5px;
 }
 
 .carousel-control-prev-icon,
