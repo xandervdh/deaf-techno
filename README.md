@@ -1,29 +1,53 @@
-live demo: https://xandervdh.github.io/deaf-techno/
+Group challenge for company Deaf Techno
 
-put the html file that you want to see behind it
+## Why on github
+
+   so we can work together on this project!
+
+## Who
+
+   Teamwork with Xander, Mykita, Kayalyn and Matthias.
+
+## What
+
+   It is an exercise to see how we are with HTML/CSS
+
+## Timing
+
+   3 days
+
+## Published site
+
+   https://xandervdh.github.io/deaf-techno/
+
+## The challenge
+
+   https://github.com/becodeorg/atw-giertz-3-23/tree/master/1.The-Field/8.Final-test
+
+   ![we can do it](images/giphy.gif)
 
 ## Requirements
 
 ### Perfection is not a detail
-- [ ] All buttons and links work
-- [ ] All elements work and are complete (menu, lists, images, ...)
-- [ ] Everything on the page has a function, a reason to be there
-- [ ] No dead links
-- [ ] English and dutch are not mixed
-- [ ] No spelling errors
-- [ ] No grammar errors
-- [ ] The website is deployed somewhere
-- [ ] Everything is relevant (no image of a barber on the website of a baker)
+- [x] All buttons and links work
+- [x] All elements work and are complete (menu, lists, images, ...)
+- [x] Everything on the page has a function, a reason to be there
+- [x] No dead links
+- [x] English and dutch are not mixed
+- [x] No spelling errors
+- [x] No grammar errors
+- [x] The website is deployed somewhere
+- [x] Everything is relevant (no image of a barber on the website of a baker)
 
 ### Content
-- [ ] Openinghours (if needed)
-- [ ] Address (if needed)
-- [ ] Clickable email
-- [ ] A working form (you can use https://formspree.io)
+- [x] Openinghours (if needed)
+- [x] Address (if needed)
+- [x] Clickable email
+- [x] A working form (you can use https://formspree.io)
 
 ### Text life matters aka typography is real
-- [ ] Some words are bolded
-- [ ] Some words are italic
+- [x] Some words are bolded
+- [x] Some words are italic
 - [ ] Some words have a different color
 - [ ] We aren't using a default font, cause it's not 2004
 - [ ] Contrast is not too low
@@ -32,7 +56,7 @@ put the html file that you want to see behind it
 - [ ] Intro, middle, conclusion is style correctly
 - [ ] Headline font is a headline font
 - [ ] Body text font is a body text font
-- [ ] The text on the page has a good flow
+- [x] The text on the page has a good flow
 
 ### Style
 - [ ] Black is almost black but not #000
@@ -43,51 +67,51 @@ put the html file that you want to see behind it
 - [ ] Everything works even if you are colorblind
 
 ### Not everyone has free 4G aka speed matters
-- [ ] Pictures are not too heavy
+- [x] Pictures are not too heavy
 - [ ] Pictures are not pixelated
 
 ### A company wants to be found/SEO	
-- [ ] All the keywords this company wants to be found on are on the page 
-- [ ] Page has an H1 tag
-- [ ] Page has keyword meta tags
+- [x] All the keywords this company wants to be found on are on the page 
+- [x] Page has an H1 tag
+- [x] Page has keyword meta tags
 - [ ] Page has a title with the keywords in
-- [ ] Page loads fast
+- [x] Page loads fast
  
 ### Keep your workspace clean
 - [ ] No unused files in the repo
-- [ ] All files have a good, clear name
+- [x] All files have a good, clear name
 - [ ] Good folder structure
 - [ ] The CSS folder does not have an image folder
 - [ ] Not too many files in the root folder 
 
 ### Git(hub) is what you make it
-- [ ] All commits use a good comment
-- [ ] A github description has been filled in
-- [ ] A github website has been filled in
+- [x] All commits use a good comment
+- [x] A github description has been filled in
+- [x] A github website has been filled in
 
 ### Readme but also writeme
-- [ ] The readme says who made it
-- [ ] The readme says why they made it
-- [ ] The readme explains what this repo/project is
-- [ ] The readme explains why it is on github
-- [ ] The readme links to a preview (screenshot)
-- [ ] The readme contains a nice image
-- [ ] The readme does not contain the readme/license of dependencies, libraries, templates
-- [ ] If needed they are included in the repo and are mentioned in the readme
-- [ ] The readme has a markdown title
-- [ ] The readme is divided in sections
-- [ ] The readme is fun to read
-- [ ] The readme looks good
-- [ ] The readme is clear, even for someone that has no idea what is going on
+- [x] The readme says who made it
+- [x] The readme says why they made it
+- [x] The readme explains what this repo/project is
+- [x] The readme explains why it is on github
+- [x] The readme links to a preview (screenshot)
+- [x] The readme contains a nice image
+- [x] The readme does not contain the readme/license of dependencies, libraries, templates
+- [x] If needed they are included in the repo and are mentioned in the readme
+- [x] The readme has a markdown title
+- [x] The readme is divided in sections
+- [x] The readme is fun to read
+- [x] The readme looks good
+- [x] The readme is clear, even for someone that has no idea what is going on
 
 ### I'm So Meta, Even This Acronym
 - [ ] Social media sharing meta tags are correct
 - [ ] Keywords meta tag
 - [ ] Description meta tag
-- [ ] Title of the page is included
+- [x] Title of the page is included
 - [ ] Favicon is included
-- [ ] Responsive meta tag is included
-- [ ] Charset is defined
+- [x] Responsive meta tag is included
+- [x] Charset is defined
 - [ ] Author is defined
 
 ### Data is the new oil
@@ -98,21 +122,21 @@ put the html file that you want to see behind it
 - [ ] W3C validator
 
 ### Putting the antics back in semantics (but only for the html)
-- [ ] The html is semanticly correct
-- [ ] Navigation is in a nav
-- [ ] Lists use list tags
+- [x] The html is semanticly correct
+- [x] Navigation is in a nav
+- [x] Lists use list tags
 - [ ] H tags are used to signal importance
-- [ ] No div is used where another element is available
-- [ ] No span is used where another element is available
-- [ ] No inline styling is put on any element
-- [ ] Id's are only used once
-- [ ] The same 'type' of elements have the same classes
-- [ ] All images have an alt attribute and a title
+- [x] No div is used where another element is available
+- [x] No span is used where another element is available
+- [x] No inline styling is put on any element
+- [x] Id's are only used once
+- [x] The same 'type' of elements have the same classes
+- [x] All images have an alt attribute and a title
 
 ### Just kidding CSS deserves some love too
-- [ ] CSS follows the DRY principle
-- [ ] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
-- [ ] There is no use of !important where it can be avoided
+- [x] CSS follows the DRY principle
+- [x] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
+- [x] There is no use of !important where it can be avoided
 - [ ] The page is responsive
 
 ### Thermometer goes WHERE???
@@ -120,9 +144,15 @@ put the html file that you want to see behind it
 - [x] Script tags are put at the end of the body or in the head with async/defer if possible
 
 ### Errors are to be avoided
-- [ ] No http resources are used on an https website
+- [x] No http resources are used on an https website
 - [ ] The console shows no errors
 
 ### Added requirements
 - [x] Have a footer
 - [x] Have a copyright on the website
+- [ ] Make external links open in a new tab
+- [ ] Make your page fully accessible for the visualy impaired/blind
+- [x] Add a Google Maps Embed
+- [x] Add an effect on hover over your clickable pictures
+- [ ] Add a review carousel
+- [x] Add at least one CSS animation
