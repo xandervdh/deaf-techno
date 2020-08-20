@@ -36,7 +36,8 @@ body {
 
 .about {
   background-color: palegoldenrod;
-  padding-left: 5px; }
+  padding-left: 5px;
+  margin-bottom: 20px; }
 
 .foreground {
   margin-top: auto;
@@ -52,7 +53,10 @@ body {
 
 .announcements {
   margin-bottom: 50px;
-  background-color: azure; }
+  background-color: palegoldenrod; }
+
+.card-body {
+  background-color: palegoldenrod; }
 
 .Gallery {
   background-color: palegoldenrod;
