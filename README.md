@@ -1,6 +1,25 @@
-live demo: https://xandervdh.github.io/deaf-techno/
+Group challenge for company Deaf Techno
 
-put the html file that you want to see behind it
+## Who
+
+   Teamwork with Xander, Mykita, Kayalyn and Matthias.
+
+## What
+
+   It is an exercise to see how we are with HTML/CSS
+
+## Timing
+
+   3 days
+
+## Published site
+
+   https://xandervdh.github.io/deaf-techno/
+
+## The challenge
+
+   https://github.com/becodeorg/atw-giertz-3-23/tree/master/1.The-Field/8.Final-test
+
 
 ## Requirements
 
@@ -66,11 +85,11 @@ put the html file that you want to see behind it
 - [x] A github website has been filled in
 
 ### Readme but also writeme
-- [ ] The readme says who made it
-- [ ] The readme says why they made it
-- [ ] The readme explains what this repo/project is
+- [x] The readme says who made it
+- [x] The readme says why they made it
+- [x] The readme explains what this repo/project is
 - [ ] The readme explains why it is on github
-- [ ] The readme links to a preview (screenshot)
+- [x] The readme links to a preview (screenshot)
 - [ ] The readme contains a nice image
 - [ ] The readme does not contain the readme/license of dependencies, libraries, templates
 - [ ] If needed they are included in the repo and are mentioned in the readme
@@ -128,3 +147,7 @@ put the html file that you want to see behind it
 - [x] Have a copyright on the website
 - [ ] Make external links open in a new tab
 - [ ] Make your page fully accessible for the visualy impaired/blind
+- [x] Add a Google Maps Embed
+- [x] Add an effect on hover over your clickable pictures
+- [ ] Add a review carousel
+- [x] Add at least one CSS animation
