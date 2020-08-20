@@ -17,21 +17,22 @@ body {
   color: white;
 }
 
-header {
-  width: 80%;
-  margin: 0 auto;
-  margin-bottom: 10px;
-  border-radius: 10px;
+.heading {
+  text-align: center;
+}
+.heading h1 {
+  font-family: "Julius Sans One", sans-serif;
 }
 
-header .container {
-  width: 80%;
-  margin: 0 auto;
-}
-
-nav {
-  float: center;
+.navbar {
+  background-color: white;
   display: inline-block;
+}
+
+.navi {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 .nav-link {
@@ -45,7 +46,7 @@ nav {
   left: 25%;
   right: 25%;
   bottom: 0;
-  border: 1px solid white;
+  border: 1px solid black;
 }
 
 .contact {
@@ -61,13 +62,6 @@ hr {
   height: 1px;
   background-color: white;
   border: none;
-}
-
-.heading {
-  text-align: center;
-}
-.heading h1 {
-  font-family: "Julius Sans One", sans-serif;
 }
 
 .social {
