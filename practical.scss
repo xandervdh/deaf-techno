@@ -45,7 +45,7 @@ h1 {
 }
 
 #tickets {
-  width: 95%;
+  width: 90%;
   margin: 10px auto;
 }
 
@@ -59,4 +59,62 @@ h1 {
 
 .base h3 {
   font-weight: bold;
+}
+
+//Headers
+.heading {
+  text-align: center;
+
+  .h1 {
+    font-family: 'Julius Sans One', sans-serif;
+
+  }
+}
+
+//Nav BAR
+.navbar {
+  background-color: white;
+}
+
+.navi {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
+.nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-link:hover::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  bottom: 0;
+  border: 1px solid black;
+}
+
+//footer
+.page-footer {
+  background-color: white;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 8px;
+}
+
+.contactpagelinkfooter {
+  color: black;
+}
+
+.contactpagelink {
+  color: white;
+
+}
+
+.contactpagelink:hover {
+  text-decoration: none;
+  color: black;
 }
