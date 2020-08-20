@@ -20,6 +20,7 @@ Group challenge for company Deaf Techno
 
    https://github.com/becodeorg/atw-giertz-3-23/tree/master/1.The-Field/8.Final-test
 
+   [image][images/giphy.gif]
 
 ## Requirements
 
