@@ -1,5 +1,9 @@
 Group challenge for company Deaf Techno
 
+## Why on github
+
+   so we can work together on this project!
+
 ## Who
 
    Teamwork with Xander, Mykita, Kayalyn and Matthias.
@@ -89,16 +93,16 @@ Group challenge for company Deaf Techno
 - [x] The readme says who made it
 - [x] The readme says why they made it
 - [x] The readme explains what this repo/project is
-- [ ] The readme explains why it is on github
+- [x] The readme explains why it is on github
 - [x] The readme links to a preview (screenshot)
-- [ ] The readme contains a nice image
-- [ ] The readme does not contain the readme/license of dependencies, libraries, templates
-- [ ] If needed they are included in the repo and are mentioned in the readme
-- [ ] The readme has a markdown title
-- [ ] The readme is divided in sections
-- [ ] The readme is fun to read
-- [ ] The readme looks good
-- [ ] The readme is clear, even for someone that has no idea what is going on
+- [x] The readme contains a nice image
+- [x] The readme does not contain the readme/license of dependencies, libraries, templates
+- [x] If needed they are included in the repo and are mentioned in the readme
+- [x] The readme has a markdown title
+- [x] The readme is divided in sections
+- [x] The readme is fun to read
+- [x] The readme looks good
+- [x] The readme is clear, even for someone that has no idea what is going on
 
 ### I'm So Meta, Even This Acronym
 - [ ] Social media sharing meta tags are correct
