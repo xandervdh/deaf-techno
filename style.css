@@ -58,6 +58,10 @@ body {
   margin-left: auto;
 }
 
+.has-error input[type=text], .has-error input[type=email], .has-error textarea {
+  border: 2px solid red;
+}
+
 hr {
   height: 1px;
   background-color: white;
