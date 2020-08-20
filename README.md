@@ -126,3 +126,5 @@ put the html file that you want to see behind it
 ### Added requirements
 - [x] Have a footer
 - [x] Have a copyright on the website
+- [ ] Make external links open in a new tab
+- [ ] Make your page fully accessible for the visualy impaired/blind
