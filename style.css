@@ -83,4 +83,10 @@ a:hover {
   color: black;
 }
 
+.gmap_canvas {
+  width: 400px;
+  height: 300px;
+  border: 0px;
+}
+
 /*# sourceMappingURL=style.css.map */
