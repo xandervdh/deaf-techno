@@ -22,11 +22,12 @@ h1 {
 }
 
 .button a img {
-  transition: transform 0.3s ease;
+  transition: transform .3s ease;
 }
 
 .button:hover img {
   transform: scale(2);
+  background-color: rgb(125, 125, 125, 0.5);
 }
 
 .text {
@@ -35,8 +36,8 @@ h1 {
   min-width: 50%;
   color: white;
   font-weight: bold;
-  background: #d67400;
-  background: linear-gradient(90deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+  background: rgb(214,116,0);
+  background: linear-gradient(90deg, rgba(214,116,0,0.8) 15%, rgba(199,53,53,0.8) 41%, rgba(50,89,237,0.8) 100%);
   border-bottom-right-radius: 15px;
   border-top-right-radius: 15px;
   font-size: 150%;
@@ -53,7 +54,7 @@ h1 {
   padding: 15px;
   margin: 10px 5px;
   border: 15px solid;
-  border-image-source: linear-gradient(90deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+  border-image-source: linear-gradient(90deg, rgba(214,116,0,0.8) 15%, rgba(199,53,53,0.8) 41%, rgba(50,89,237,0.8) 100%);
   border-image-slice: 1;
 }
 
@@ -61,13 +62,17 @@ h1 {
   font-weight: bold;
 }
 
+//Headers
 .heading {
   text-align: center;
-}
-.heading .h1 {
-  font-family: "Julius Sans One", sans-serif;
+
+  .h1 {
+    font-family: 'Julius Sans One', sans-serif;
+
+  }
 }
 
+//Nav BAR
 .navbar {
   background-color: white;
 }
@@ -97,6 +102,7 @@ h1 {
   font-weight: bold;
 }
 
+//footer
 .page-footer {
   background-color: white;
   color: black;
@@ -110,11 +116,10 @@ h1 {
 
 .contactpagelink {
   color: white;
+
 }
 
 .contactpagelink:hover {
   text-decoration: none;
   color: black;
 }
-
-/*# sourceMappingURL=practical.css.map */
