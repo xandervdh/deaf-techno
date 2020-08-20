@@ -20,7 +20,7 @@ body {
 .heading {
   text-align: center;
 }
-.heading h1 {
+.heading .h1 {
   font-family: "Julius Sans One", sans-serif;
 }
 
@@ -74,11 +74,11 @@ hr {
   word-spacing: 20px;
 }
 
-a {
+.contactpagelink {
   color: white;
 }
 
-a:hover {
+.contactpagelink:hover {
   text-decoration: none;
   color: black;
 }
