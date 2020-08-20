@@ -116,9 +116,13 @@ put the html file that you want to see behind it
 - [ ] The page is responsive
 
 ### Thermometer goes WHERE???
-- [ ] Your own style is included after the style of frameworks
-- [ ] Script tags are put at the end of the body or in the head with async/defer if possible
+- [x] Your own style is included after the style of frameworks
+- [x] Script tags are put at the end of the body or in the head with async/defer if possible
 
 ### Errors are to be avoided
 - [ ] No http resources are used on an https website
 - [ ] The console shows no errors
+
+### Added requirements
+- [x] Have a footer
+- [x] Have a copyright on the website
