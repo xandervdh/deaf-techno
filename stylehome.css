@@ -87,6 +87,7 @@ body {
   margin-bottom: 30px;
   padding-top: 10px;
   height: 80%;
+  width: 100%;
   padding-left: 5px; }
 
 .carousel-control-prev-icon,
@@ -106,5 +107,14 @@ body {
   content: '<';
   font-size: 55px;
   color: red; }
+
+.page-footer {
+  background-color: white;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 8px; }
+
+.contactpagelinkfooter {
+  color: black; }
 
 /*# sourceMappingURL=stylehome.css.map */

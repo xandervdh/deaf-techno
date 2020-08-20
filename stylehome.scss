@@ -27,6 +27,7 @@ body {
   bottom: 0;
   border: 1px solid black;
 }
+
 .active {
   font-weight: bold;
 }
@@ -36,16 +37,19 @@ body {
   width: 80%;
   margin: 2% auto;
 }
+
 .wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 420px;
 }
-.background__image{
-  width:110%;
+
+.background__image {
+  width: 110%;
 
 }
+
 /* Parallax Styles */
 .parallax-container {
   position: relative;
@@ -67,9 +71,9 @@ body {
   transform: translateZ(0px);
 }
 
-.about{
+.about {
   background-color: palegoldenrod;
-  padding-left:5px;
+  padding-left: 5px;
   margin-bottom: 20px;
 }
 
@@ -90,25 +94,24 @@ body {
 }
 
 .announcements {
-  margin-bottom:50px;
+  margin-bottom: 50px;
   background-color: palegoldenrod;
 }
 
-.card-body{
+.card-body {
   background-color: palegoldenrod;
 
 }
 
-.Gallery{
+.Gallery {
 
   background-color: palegoldenrod;
   margin-bottom: 30px;
   padding-top: 10px;
   height: 80%;
-
+  width: 100%;
   padding-left: 5px;
 }
-
 
 
 .carousel-control-prev-icon,
@@ -130,4 +133,16 @@ body {
   content: '<';
   font-size: 55px;
   color: red;
+}
+
+//footer
+.page-footer {
+  background-color: white;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 8px;
+}
+
+.contactpagelinkfooter {
+  color: black;
 }
