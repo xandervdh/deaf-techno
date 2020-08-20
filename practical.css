@@ -12,14 +12,13 @@ body {
 h1 {
   text-align: center;
   padding-top: 10px;
-  font-size: 5rem;
+  font-size: 400%;
 }
 
 .button {
   margin: 1% 0;
   overflow: hidden;
   position: relative;
-  width: 90% !important;
 }
 
 .button a img {
@@ -40,9 +39,26 @@ h1 {
   background: linear-gradient(90deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
   border-bottom-right-radius: 15px;
   border-top-right-radius: 15px;
-  font-size: 2rem;
+  font-size: 150%;
   padding: 5px;
   text-align: center;
+}
+
+#tickets {
+  width: 95%;
+  margin: 10px auto;
+}
+
+.base {
+  padding: 15px;
+  margin: 10px 5px;
+  border: 15px solid;
+  border-image-source: linear-gradient(90deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+  border-image-slice: 1;
+}
+
+.base h3 {
+  font-weight: bold;
 }
 
 /*# sourceMappingURL=practical.css.map */
