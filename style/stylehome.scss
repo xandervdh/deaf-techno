@@ -33,33 +33,13 @@ body {
 }
 
 .wrap {
-  background-color: palegoldenrod;
   width: 80%;
   margin: 2% auto;
-}
-
-.wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 420px;
 }
 
 .background__image {
   width: 110%;
 
-}
-
-/* Parallax Styles */
-.parallax-container {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  perspective: 8px;
-  perspective-origin: 0%;
-  display: flex;
 }
 
 .background {
@@ -145,4 +125,18 @@ body {
 
 .contactpagelinkfooter {
   color: black;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("../images/Paralaxtest.jpeg");
+
+  /* Set a specific height */
+  height: 800px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
