@@ -107,4 +107,13 @@ hr {
   color: black;
 }
 
+.contactpagelink {
+  color: white;
+}
+
+.contactpagelink:hover {
+  text-decoration: none;
+  color: black;
+}
+
 /*# sourceMappingURL=style.css.map */
