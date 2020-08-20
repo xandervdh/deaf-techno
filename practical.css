@@ -93,6 +93,10 @@ h1 {
   border: 1px solid black;
 }
 
+.active {
+  font-weight: bold;
+}
+
 .page-footer {
   background-color: white;
   color: black;
