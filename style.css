@@ -89,4 +89,15 @@ hr {
   border: 0px;
 }
 
+.page-footer {
+  background-color: white;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 8px;
+}
+
+.contactpagelinkfooter {
+  color: black;
+}
+
 /*# sourceMappingURL=style.css.map */
