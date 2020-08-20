@@ -49,6 +49,10 @@ body {
   border: 1px solid black;
 }
 
+.active {
+  font-weight: bold;
+}
+
 .contact {
   max-width: 90%;
   margin: auto;
