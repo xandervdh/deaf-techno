@@ -1,6 +1,30 @@
 body {
   background-color: black; }
 
+.navbar {
+  background-color: white; }
+
+.navi {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: white; }
+
+.nav-link {
+  position: relative;
+  text-decoration: none; }
+
+.nav-link:hover::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  bottom: 0;
+  border: 1px solid black; }
+
+.active {
+  font-weight: bold; }
+
 .wrap {
   background-color: palegoldenrod;
   width: 80%;
