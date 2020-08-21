@@ -1,23 +1,37 @@
 body {
-    background-color: black;
+    background-color: rgba(255,255,255,0.5);
 }
 /*header styling*/
 .heading {
-      text-align: center;
+    text-align: center;
+    font-family: "Earth Orbiter", sans-serif;
+    color: #0E0A19;
   }
 .h1 {
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: "Earth Orbiter Academy", sans-serif;
+    font-size: 60px;
+}
+
+.logo img {
+    width: 50%;
+    margin-bottom: -8%;
+    margin-top: -8%;
+    position: absolute;
+    left: 0;
+    float: left;
 }
 
 .navbar {
-      background-color: white;
+    background-color: #0E0A19;
+    color: #fffffe;
 }
 
 .navi {
     margin-bottom: 50px;
     display: flex;
     justify-content: center;
-    background-color: white;
+    background-color: #0E0A19;
+    color: #fffffe;
 }
 
 .nav-link {
@@ -78,6 +92,7 @@ a:link {
     padding-top: 5px;
     padding-bottom: 8px;
 }
+
 
 
 /*# sourceMappingURL=style.css.map */
