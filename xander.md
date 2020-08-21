@@ -87,7 +87,7 @@
 - [x] Author is defined
 
 ### Data is the new oil
-- [ ] Implements (Google) analytics
+- [x] Implements (Google) analytics
 
 ### Perform all the tests
 - [x] Lighthouse

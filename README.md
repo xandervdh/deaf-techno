@@ -6,7 +6,7 @@ Group challenge for company Deaf Techno
 
 ## Who
 
-   Teamwork with Xander, Mykita, Kayalyn and Matthias.
+   Teamwork with Xander, Mykita, Kaialyn and Matthias.
 
 ## What
 

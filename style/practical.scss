@@ -1,12 +1,13 @@
 body {
-  background-color: black;
+  background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
 }
 
 .wrap {
-  background-color: white;
+  background-color: rgba(254, 255, 255, 0.5);
   width: 80%;
   margin: 2% auto;
   padding: 0 1%;
+  box-shadow: 0px 4px 51px -9px rgba(240, 4, 4, 1);
 }
 
 h1 {
@@ -34,7 +35,7 @@ h1 {
   position: absolute;
   bottom: 10%;
   min-width: 50%;
-  color: white;
+  color: #fffffe;
   font-weight: bold;
   background: rgb(214,116,0);
   background: linear-gradient(90deg, rgba(214,116,0,0.8) 15%, rgba(199,53,53,0.8) 41%, rgba(50,89,237,0.8) 100%);
@@ -70,14 +71,18 @@ h1 {
 
 //Nav BAR
 .navbar {
-  background-color: white;
+  background-color: #0E0A19;
+  color: #fffffe;
+
 }
 
 .navi {
   margin-bottom: 50px;
   display: flex;
   justify-content: center;
-  background-color: white;
+  background-color: #0E0A19;
+  color: #fffffe;
+
 }
 
 .nav-link {
@@ -91,7 +96,7 @@ h1 {
   left: 25%;
   right: 25%;
   bottom: 0;
-  border: 1px solid black;
+  border: 1px solid #fffffe;
 }
 
 .active {
@@ -110,24 +115,24 @@ h1 {
 
 //footer
 .page-footer {
-  background-color: white;
-  color: black;
+  background-color: #0E0A19;
+  color: white;
   padding-top: 5px;
   padding-bottom: 8px;
 }
 
 .contactpagelinkfooter {
-  color: black;
+  color: #fffffe;
 }
 
 .contactpagelink {
-  color: white;
+  color: #fffffe;
 
 }
 
 .contactpagelink:hover {
   text-decoration: none;
-  color: black;
+  color: gray;
 }
 
 .maps {
