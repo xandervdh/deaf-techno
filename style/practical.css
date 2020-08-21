@@ -59,14 +59,18 @@ h1 {
 }
 
 .base h3 {
-  font-weight: bold;
+  font-family: "earth_orbiter_boldbold", sans-serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 .heading {
   text-align: center;
 }
 .heading .h1 {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Earth Orbiter Academy";
+  font-weight: normal;
+  font-style: normal;
 }
 
 .navbar {
@@ -98,6 +102,15 @@ h1 {
   font-weight: bold;
 }
 
+.logo img {
+  width: 50%;
+  margin-bottom: -8%;
+  margin-top: -8%;
+  position: absolute;
+  left: 0;
+  float: left;
+}
+
 .page-footer {
   background-color: white;
   color: black;
@@ -116,6 +129,12 @@ h1 {
 .contactpagelink:hover {
   text-decoration: none;
   color: black;
+}
+
+.title {
+  font-family: "earth_orbiter_boldbold", Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 /*# sourceMappingURL=practical.css.map */

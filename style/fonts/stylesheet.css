@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Earth Orbiter Academy';
+    src: url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiterAcademy.woff2') format('woff2'),
+        url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiterAcademy.woff') format('woff'),
+        url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiterAcademy.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Earth Orbiter';
+    src: url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiterBold.woff2') format('woff2'),
+        url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiterBold.woff') format('woff'),
+        url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiterBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Earth Orbiter';
+    src: url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiter.woff2') format('woff2'),
+        url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiter.woff') format('woff'),
+        url('https://xandervdh.github.io/deaf-techno/style/fonts/EarthOrbiter.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
