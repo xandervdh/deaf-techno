@@ -18,7 +18,7 @@ body {
   background-color: rgba(255, 255, 255, 0.1);
   width: 80%;
   margin: 2% auto;
-  color: white;
+  color: #0E0A19;
   box-shadow: 0px 4px 51px -9px rgba(240, 4, 4, 1);
 }
 
@@ -26,7 +26,7 @@ body {
 .heading {
   text-align: center;
   font-family: "Earth Orbiter", sans-serif;
-  color: black;
+  color: #0E0A19;
 }
 
 .h1 {
@@ -48,8 +48,8 @@ body {
 
 //Nav BAR
 .navbar {
-  background-color: black;
-  color: white;
+  background-color: #0E0A19;
+  color: #fffffe;
 
 }
 
@@ -57,8 +57,8 @@ body {
   margin-bottom: 50px;
   display: flex;
   justify-content: center;
-  background-color: black;
-  color: white;
+  background-color: #0E0A19;
+  color: #fffffe;
 
 }
 
@@ -73,7 +73,7 @@ body {
   left: 25%;
   right: 25%;
   bottom: 0;
-  border: 1px solid white;
+  border: 1px solid #fffffe;
 }
 
 .active {
@@ -100,15 +100,10 @@ body {
 //border line
 hr {
   height: 1px;
-  background-color: black;
+  background-color: #0E0A19;
   border: none;
 }
 
-.hr {
-  height: 1px;
-  background-color: black;
-  border: none;
-}
 
 
 //social icons on contact from
@@ -120,13 +115,13 @@ hr {
 
 //links
 .contactpagelink {
-  color: white;
+  color: #0E0A19;
 
 }
 
 .contactpagelink:hover {
   text-decoration: none;
-  color: black;
+  color: #0E0A19;
 }
 
 //gmap
@@ -138,22 +133,22 @@ hr {
 
 //footer
 .page-footer {
-  background-color: black;
-  color: white;
+  background-color: #0E0A19;
+  color: #fffffe;
   padding-top: 5px;
   padding-bottom: 8px;
 }
 
 .contactpagelinkfooter {
-  color: white;
+  color: #fffffe;
 }
 
 .contactpagelink {
-  color: white;
+  color: #0E0A19;
 
 }
 
 .contactpagelink:hover {
   text-decoration: none;
-  color: black;
+  color: #0E0A19;
 }
