@@ -58,20 +58,12 @@ h1 {
   border-image-slice: 1;
 }
 
-.base h3 {
-  font-family: 'Earth Orbiter Academy', sans-serif;
-  font-weight:normal;
-  font-style:normal;
-}
-
 //Headers
 .heading {
   text-align: center;
 
   .h1 {
-    font-family: 'Earth Orbiter Academy';
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Julius Sans One', sans-serif;
 
   }
 }
@@ -138,13 +130,24 @@ h1 {
   color: black;
 }
 
-.title {
-  font-family: 'earth_orbiter_boldbold', Arial, sans-serif;
-  font-weight: normal;
-  font-style: normal;
-}
-
 .maps {
   border: 0;
+}
 
+.wrap h1 {
+  font-family: 'Earth Orbiter Academy', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+}
+
+.text{
+  font-family: 'Earth Orbiter Bold', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+}
+
+.card-body h2, title, .base h3 {
+  font-family: 'Earth Orbiter', sans-serif;
+  font-weight:normal;
+  font-style:normal;
 }
