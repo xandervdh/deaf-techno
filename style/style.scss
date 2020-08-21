@@ -9,14 +9,19 @@
 
 
 //template
+html {
+  height: 100%;
+}
+
 body {
   background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
-  display: flex;
-  flex-direction: column;
+  min-height: 100%;
+  position: relative;
 }
 
 .content {
-  flex-grow: 1;
+  padding-bottom: 100px;
+  min-height: 100%;
 }
 
 .wrap {
@@ -141,7 +146,12 @@ hr {
   color: #fffffe;
   padding-top: 5px;
   padding-bottom: 8px;
-  flex-grow: 0;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+
 
 }
 
