@@ -13,6 +13,10 @@ body {
   background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
   min-height: 100%;
   position: relative;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top;
+  background-attachment: fixed;
 }
 
 .content {
@@ -21,7 +25,7 @@ body {
 }
 
 .wrap {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.3);
   width: 80%;
   margin: 2% auto;
   color: #0E0A19;
