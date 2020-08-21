@@ -7,6 +7,12 @@
 }
 body {
   background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex-grow: 1;
 }
 
 .wrap {
@@ -116,6 +122,7 @@ hr {
   color: #fffffe;
   padding-top: 5px;
   padding-bottom: 8px;
+  flex-grow: 0;
 }
 
 .contactpagelinkfooter {
@@ -128,7 +135,11 @@ hr {
 
 .contactpagelink:hover {
   text-decoration: none;
-  color: #0E0A19;
+  color: #fffffe;
+}
+
+.contactpagelinkfooter:hover {
+  color: pink;
 }
 
 /*# sourceMappingURL=style.css.map */
