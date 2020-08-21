@@ -1,22 +1,18 @@
 body {
-  background-color: #0E0A19;
-}
+  background-color: #0E0A19; }
 
 .navbar {
-  background-color: #E8DFE0;
-}
+  background-color: #E8DFE0; }
 
 .navi {
   margin-bottom: 50px;
   display: flex;
   justify-content: center;
-  background-color: #E8DFE0;
-}
+  background-color: #E8DFE0; }
 
 .nav-link {
   position: relative;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
 .nav-link:hover::after {
   content: "";
@@ -24,21 +20,17 @@ body {
   left: 25%;
   right: 25%;
   bottom: 0;
-  border: 1px solid black;
-}
+  border: 1px solid black; }
 
 .active {
-  font-weight: bold;
-}
+  font-weight: bold; }
 
 .wrap {
   width: 80%;
-  margin: 2% auto;
-}
+  margin: 2% auto; }
 
 .background__image {
-  width: 110%;
-}
+  width: 110%; }
 
 .background {
   position: absolute;
@@ -46,14 +38,12 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  transform: translateZ(0px);
-}
+  transform: translateZ(0px); }
 
 .about {
   background-color: #E8DFE0;
   padding-left: 5px;
-  margin-bottom: 20px;
-}
+  margin-bottom: 20px; }
 
 .foreground {
   margin-top: auto;
@@ -62,30 +52,35 @@ body {
   transform: translateZ(3px) scale(0.625);
   /* Uncomment the code below to see the difference the scale property makes! */
   /* transform: translateZ(3px);
-  /* transform: translateZ(0) scale(1); */
-}
+  /* transform: translateZ(0) scale(1); */ }
 
 .foreground h1 {
-  font-size: 36px;
-}
+  font-size: 36px; }
 
 .announcements {
   margin-bottom: 50px;
-  background-color: #E8DFE0;
-}
+  background-color: #E8DFE0; }
 
 .card-body {
-  background-color: #E8DFE0;
-}
+  background-color: #E8DFE0; }
 
-.Gallery {
+.Reviews {
   background-color: #E8DFE0;
   margin-bottom: 30px;
   padding-top: 10px;
   height: 80%;
   width: 100%;
   padding-left: 5px;
-}
+  padding-bottom: 20px; }
+
+.cardImg {
+  background-color: #E8DFE0;
+  height: 50%; }
+
+.GalleryImg {
+  width: 75%;
+  height: 100%;
+  background-color: #E8DFE0; }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -93,31 +88,26 @@ body {
   width: 100px;
   outline: black;
   background-size: 100%, 100%;
-  background-image: none;
-}
+  background-image: none; }
 
 .carousel-control-next-icon:after {
-  content: ">";
+  content: '>';
   font-size: 55px;
-  color: red;
-}
+  color: red; }
 
 .carousel-control-prev-icon:after {
-  content: "<";
+  content: '<';
   font-size: 55px;
-  color: red;
-}
+  color: red; }
 
 .page-footer {
   background-color: #E8DFE0;
   color: black;
   padding-top: 5px;
-  padding-bottom: 8px;
-}
+  padding-bottom: 8px; }
 
 .contactpagelinkfooter {
-  color: black;
-}
+  color: black; }
 
 .parallax {
   /* The image used */
@@ -128,8 +118,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-}
+  background-size: cover; }
 
 .logo img {
   width: 50%;
@@ -137,7 +126,6 @@ body {
   margin-top: -8%;
   position: absolute;
   left: 0;
-  float: left;
-}
+  float: left; }
 
 /*# sourceMappingURL=stylehome.css.map */
