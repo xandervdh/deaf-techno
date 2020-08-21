@@ -117,14 +117,14 @@
 
 ### Errors are to be avoided
 - [x] No http resources are used on an https website
-- [ ] The console shows no errors
+- [x] The console shows no errors
 
 ### Added requirements
 - [x] Have a footer
 - [x] Have a copyright on the website
-- [ ] Make external links open in a new tab
-- [ ] Make your page fully accessible for the visualy impaired/blind
+- [x] Make external links open in a new tab
+- [x] Make your page fully accessible for the visualy impaired/blind
 - [x] Add a Google Maps Embed
 - [x] Add an effect on hover over your clickable pictures
-- [ ] Add a review carousel
+- [x] Add a review carousel
 - [x] Add at least one CSS animation
