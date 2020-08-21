@@ -15,7 +15,7 @@ body {
 }
 
 .wrap {
-  background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+  background-color: rgba(255, 255, 255, 0.1);
   width: 80%;
   margin: 2% auto;
   color: white;
@@ -25,7 +25,15 @@ body {
 //Headers
 .heading {
   text-align: center;
+  font-family: "Earth Orbiter", sans-serif;
+  color: black;
 }
+
+.h1 {
+  font-family: "Earth Orbiter Academy", sans-serif;
+  font-size: 60px;
+}
+
 
 //Logo
 .logo img {
@@ -92,7 +100,13 @@ body {
 //border line
 hr {
   height: 1px;
-  background-color: white;
+  background-color: black;
+  border: none;
+}
+
+.hr {
+  height: 1px;
+  background-color: black;
   border: none;
 }
 
