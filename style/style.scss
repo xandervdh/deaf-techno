@@ -7,6 +7,7 @@
 
 }
 
+
 //template
 body {
   background-color: black;
@@ -118,5 +119,15 @@ hr {
 }
 
 .contactpagelinkfooter {
+  color: black;
+}
+
+.contactpagelink {
+  color: white;
+
+}
+
+.contactpagelink:hover {
+  text-decoration: none;
   color: black;
 }
