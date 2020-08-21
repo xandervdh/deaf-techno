@@ -141,8 +141,12 @@ body {
   background-size: cover;
 }
 
-.logo img{
+.logo img {
   width: 50%;
   margin-bottom: -8%;
   margin-top: -8%;
+  position: absolute;
+  left: 0;
+  float: left;
+
 }
