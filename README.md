@@ -48,41 +48,41 @@ Group challenge for company Deaf Techno
 ### Text life matters aka typography is real
 - [x] Some words are bolded
 - [x] Some words are italic
-- [ ] Some words have a different color
-- [ ] We aren't using a default font, cause it's not 2004
-- [ ] Contrast is not too low
-- [ ] Typographic hierachy is correct
-- [ ] Text has a clear intro, middle, conclusion
-- [ ] Intro, middle, conclusion is style correctly
-- [ ] Headline font is a headline font
-- [ ] Body text font is a body text font
+- [x] Some words have a different color
+- [x] We aren't using a default font, cause it's not 2004
+- [x] Contrast is not too low
+- [x] Typographic hierachy is correct
+- [x] Text has a clear intro, middle, conclusion
+- [x] Intro, middle, conclusion is style correctly
+- [x] Headline font is a headline font
+- [x] Body text font is a body text font
 - [x] The text on the page has a good flow
 
 ### Style
-- [ ] Black is almost black but not #000
-- [ ] White is almost white but not #fff
-- [ ] The website is not an ugly color mess
-- [ ] The styling is consistent
-- [ ] It is not four totally different pages thrown together
+- [x] Black is almost black but not #000
+- [x] White is almost white but not #fff
+- [x] The website is not an ugly color mess
+- [x] The styling is consistent
+- [x] It is not four totally different pages thrown together
 - [ ] Everything works even if you are colorblind
 
 ### Not everyone has free 4G aka speed matters
 - [x] Pictures are not too heavy
-- [ ] Pictures are not pixelated
+- [x] Pictures are not pixelated
 
 ### A company wants to be found/SEO	
 - [x] All the keywords this company wants to be found on are on the page 
 - [x] Page has an H1 tag
 - [x] Page has keyword meta tags
-- [ ] Page has a title with the keywords in
+- [x] Page has a title with the keywords in
 - [x] Page loads fast
  
 ### Keep your workspace clean
-- [ ] No unused files in the repo
+- [x] No unused files in the repo
 - [x] All files have a good, clear name
-- [ ] Good folder structure
-- [ ] The CSS folder does not have an image folder
-- [ ] Not too many files in the root folder 
+- [x] Good folder structure
+- [x] The CSS folder does not have an image folder
+- [x] Not too many files in the root folder 
 
 ### Git(hub) is what you make it
 - [x] All commits use a good comment
@@ -105,11 +105,11 @@ Group challenge for company Deaf Techno
 - [x] The readme is clear, even for someone that has no idea what is going on
 
 ### I'm So Meta, Even This Acronym
-- [ ] Social media sharing meta tags are correct
-- [ ] Keywords meta tag
-- [ ] Description meta tag
+- [x] Social media sharing meta tags are correct
+- [x] Keywords meta tag
+- [x] Description meta tag
 - [x] Title of the page is included
-- [ ] Favicon is included
+- [x] Favicon is included
 - [x] Responsive meta tag is included
 - [x] Charset is defined
 - [ ] Author is defined
@@ -125,7 +125,7 @@ Group challenge for company Deaf Techno
 - [x] The html is semanticly correct
 - [x] Navigation is in a nav
 - [x] Lists use list tags
-- [ ] H tags are used to signal importance
+- [x] H tags are used to signal importance
 - [x] No div is used where another element is available
 - [x] No span is used where another element is available
 - [x] No inline styling is put on any element
@@ -137,7 +137,7 @@ Group challenge for company Deaf Techno
 - [x] CSS follows the DRY principle
 - [x] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
 - [x] There is no use of !important where it can be avoided
-- [ ] The page is responsive
+- [x] The page is responsive
 
 ### Thermometer goes WHERE???
 - [x] Your own style is included after the style of frameworks
@@ -154,5 +154,5 @@ Group challenge for company Deaf Techno
 - [ ] Make your page fully accessible for the visualy impaired/blind
 - [x] Add a Google Maps Embed
 - [x] Add an effect on hover over your clickable pictures
-- [ ] Add a review carousel
+- [x] Add a review carousel
 - [x] Add at least one CSS animation
