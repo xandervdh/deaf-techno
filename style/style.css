@@ -10,8 +10,7 @@ body {
 }
 
 .wrap {
-  background: #ff4dc4;
-  background: linear-gradient(90deg, #ff4dc4 15%, #c1c339 41%, #59efff 77%, #8597dc 100%);
+  background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
   width: 80%;
   margin: 2% auto;
   color: white;
@@ -19,9 +18,6 @@ body {
 
 .heading {
   text-align: center;
-}
-.heading .h1 {
-  font-family: "Julius Sans One", sans-serif;
 }
 
 .logo img {
