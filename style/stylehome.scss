@@ -1,14 +1,17 @@
 body {
- background:linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);;
+  background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+
 }
 
 .wrap {
-  background-color: rgba(254, 255, 255, 0.5);
+  background-color: rgba(254, 255, 255, 0.7);
   width: 80%;
   margin: 2% auto;
   padding: 0 1%;
   box-shadow: 0px 4px 51px -9px rgba(240, 4, 4, 1);
 }
+
+
 
 h1 {
   text-align: center;
@@ -16,6 +19,27 @@ h1 {
   font-size: 400%;
   color: #fffffe;
 }
+
+h2 {
+  font-family: 'Earth Orbiter Bold', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+h3{
+  font-family: 'Earth Orbiter Bold', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+h4{
+  font-family: 'Earth Orbiter Bold', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
 //Nav BAR
 .navbar {
   background-color: #0E0A19;
@@ -68,7 +92,6 @@ h1 {
 }
 
 .about {
-  background-color: #E8DFE0;
   padding-left: 5px;
   margin-bottom: 20px;
 }
@@ -91,39 +114,46 @@ h1 {
 
 .announcements {
   margin-bottom: 50px;
-  background-color: #E8DFE0;
+
+}
+.card{
+  background-color: rgba(255, 255, 255, .1);
 }
 
-.card-body {
-  background-color: #E8DFE0;
+.carousel-inner {
 
 }
 
 .Reviews {
 
-  background-color: #E8DFE0;
   margin-bottom: 30px;
   padding-top: 10px;
   height: 80%;
   width: 100%;
   padding-left: 5px;
   padding-bottom: 20px;
+
 }
+
 
 .cardImg {
-  background-color: #E8DFE0;
-  height:50%
+  height: 50%
 }
 
-.GalleryImg{
+.carousel-item {
+
+}
+
+.GalleryImg {
   width: 75%;
-  height:100%;
-  background-color: #E8DFE0;
+  height: 100%;;
 }
 
-.Gallery{
+.Gallery {
   padding-bottom: 15px;
+
 }
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
@@ -183,4 +213,39 @@ h1 {
   left: 0;
   float: left;
 
+}
+
+@media only screen and (max-width: 500px) {
+  .text-center {
+    width: 90%;
+    margin: auto;
+  }
+
+  .logo-overlay {
+    display: none;
+  }
+
+  .icon {
+    width: 50%;
+    margin-top: 60%;
+    margin-left: 25%;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  .text-center {
+    width: 90%;
+    margin: auto;
+  }
+
+  .logo-overlay {
+
+  }
+
+  .icon {
+    display: none;
+    width: 50%;
+    margin-top: 60%;
+    margin-left: 25%;
+  }
 }

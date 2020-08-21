@@ -1,5 +1,6 @@
 body {
   background: linear-gradient(120deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
+  color: #0E0A19;
 }
 
 .wrap {
@@ -40,14 +41,24 @@ body {
   text-align: center;
 }
 
-#tickets {
-  width: 90%;
+#tickets, #festivalTerrain, #camping, #getThere, #faq {
+  width: 100%;
   margin: 10px auto;
 }
 
+@media only screen and (max-width: 990px) {
+  .base {
+    margin: 10px auto;
+  }
+}
+@media only screen and (min-width: 990px) {
+  .base {
+    margin: 10px 5px;
+  }
+}
 .base {
+  max-width: 80%;
   padding: 15px;
-  margin: 10px 5px;
   border: 15px solid;
   border-image-source: linear-gradient(90deg, rgba(214, 116, 0, 0.8) 15%, rgba(199, 53, 53, 0.8) 41%, rgba(50, 89, 237, 0.8) 100%);
   border-image-slice: 1;
@@ -126,6 +137,7 @@ body {
 
 .maps {
   border: 0;
+  max-width: 100%;
 }
 
 .wrap h1 {
@@ -138,6 +150,10 @@ body {
   font-family: "Earth Orbiter Bold", sans-serif;
   font-weight: normal;
   font-style: normal;
+}
+
+.delijn {
+  max-width: 100%;
 }
 
 .card-body h2, .base h3 {
