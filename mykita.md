@@ -21,7 +21,7 @@
 - [x] Some words are bolded
 - [x] Some words are italic
 - [x] Some words have a different color
-- [ ] We aren't using a default font, cause it's not 2004
+- [x] We aren't using a default font, cause it's not 2004
 - [x] Contrast is not too low
 - [x] Typographic hierachy is correct
 - [x] Text has a clear intro, middle, conclusion
@@ -31,12 +31,12 @@
 - [x] The text on the page has a good flow
 
 ### Style
-- [ ] Black is almost black but not #000
-- [ ] White is almost white but not #fff
-- [ ] The website is not an ugly color mess
-- [ ] The styling is consistent
-- [ ] It is not four totally different pages thrown together
-- [ ] Everything works even if you are colorblind
+- [x] Black is almost black but not #000
+- [x] White is almost white but not #fff
+- [x] The website is not an ugly color mess
+- [x] The styling is consistent
+- [x] It is not four totally different pages thrown together
+- [x] Everything works even if you are colorblind
 
 ### Not everyone has free 4G aka speed matters
 - [x] Pictures are not too heavy
@@ -84,10 +84,10 @@
 - [x] Favicon is included
 - [x] Responsive meta tag is included
 - [x] Charset is defined
-- [ ] Author is defined
+- [x] Author is defined
 
 ### Data is the new oil
-- [ ] Implements (Google) analytics
+- [x] Implements (Google) analytics
 
 ### Perform all the tests
 - [x] Lighthouse
