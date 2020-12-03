@@ -1,4 +1,4 @@
-Group challenge for company Deaf Techno
+Group [challenge](challenge.md) for company Deaf Techno
 
 ## Why on github
 
@@ -18,7 +18,7 @@ Group challenge for company Deaf Techno
 
 ## Published site
 
-   https://xandervdh.github.io/deaf-techno/
+   [Live review](https://xandervdh.github.io/deaf-techno/)
 
 ## The challenge
 
